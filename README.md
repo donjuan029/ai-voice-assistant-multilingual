@@ -13,3 +13,15 @@ Este projeto integra tecnologias de Speech-to-Text, LLMs e Text-to-Speech para c
 - Implementar memória conversacional
 - Permitir comunicação em múltiplos idiomas
 - Demonstrar aplicação prática de IA
+
+## ⚙️ Arquitetura
+
+Usuário (voz)
+   ↓
+Whisper (Speech-to-Text)
+   ↓
+ChatGPT (Processamento + contexto)
+   ↓
+gTTS (Text-to-Speech)
+   ↓
+Resposta em áudio
