@@ -116,7 +116,7 @@ load_dotenv()
 ## ▶️ Execução
 
 1. Clone o repositório
-git clone https://github.com/seu-usuario/ai-voice-assistant-multilingual
+git clone https://github.com/donjuan029/ai-voice-assistant-multilingual
 
 2. Acesse a pasta
 cd ai-voice-assistant-multilingual
