@@ -17,11 +17,19 @@ Este projeto integra tecnologias de Speech-to-Text, LLMs e Text-to-Speech para c
 ## ⚙️ Arquitetura
 
 Usuário (voz)
+
    ↓
+   
 Whisper (Speech-to-Text)
+
    ↓
+   
 ChatGPT (Processamento + contexto)
+
    ↓
+   
 gTTS (Text-to-Speech)
+
    ↓
+   
 Resposta em áudio
